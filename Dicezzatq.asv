@@ -1,0 +1,4 @@
+function Dou=Dicezzatq (a,b)
+
+  Dou=round(randi([a,b]));
+end
